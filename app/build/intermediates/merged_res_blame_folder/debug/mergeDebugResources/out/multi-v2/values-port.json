@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.seg2505tutoriel5.app-mergeDebugResources-6:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/df5b861df05161bec1450e1c9b43999d/transformed/appcompat-v7-28.0.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

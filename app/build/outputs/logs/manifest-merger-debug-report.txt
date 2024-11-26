@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/df5b861df05161bec1450e1c9b43999d/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/8664dc3c85b9ec9c334ef6ad0b96f981/transformed/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/e8994bafb175330a4312c8452987cb3e/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/1e5364fd41d03707bfa290eef5242464/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/dd48890d9d0e0c334b40cec39d1cd269/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/3b731c4e9a636cc6688b30eae2881a54/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/5d87a5b9ac67211cd8365a371dfc0d1f/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/36ff0510602879d5b35c7236d28872dc/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/d31ff0656be2a5d10e4164e18883540e/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/6dfb4751be5bb4374d6fec7e28bf3492/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/069509f7109ca4691f63dd9e320ca320/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/12f9249df28dd0455d5432e9f358d70c/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/bfc15fd38776a263853496dd0b43e81b/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/42a5c53ec4d2d34eb9192883518e36c6/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/267cca0f90c4c076493d78812ae45065/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/85566da58f3ad5e08e452a8bd28b7caf/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/0e20340bbe499ac660e59e1a289a9c2a/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/f3605f31c9379a262544172ebbe63457/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/ca2ba643c39a4809de57b8a422b1f195/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/5133a61fc5b13ac5d7556a064cfb4415/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/783d835a8f078d729d6fd9bafbe3c833/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/1184dd4720c82ace49cfc558236766a4/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/81e5584d97d55e8b9d374c5eeb31e4d3/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/6c58479bb69dbcf2ce84622fbd2c5e5c/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/48b881cbb88d1e18b1a620d0932ed659/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/e28d099569939a9742bf0e309e086797/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/b4852088c34222c7e8bfb01c7da6189d/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:5:5-19:19
+INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/8664dc3c85b9ec9c334ef6ad0b96f981/transformed/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/8664dc3c85b9ec9c334ef6ad0b96f981/transformed/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/85566da58f3ad5e08e452a8bd28b7caf/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/85566da58f3ad5e08e452a8bd28b7caf/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/0e20340bbe499ac660e59e1a289a9c2a/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/0e20340bbe499ac660e59e1a289a9c2a/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/85566da58f3ad5e08e452a8bd28b7caf/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.seg2105.labtesting.MainActivity
+ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:12:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/df5b861df05161bec1450e1c9b43999d/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/df5b861df05161bec1450e1c9b43999d/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/8664dc3c85b9ec9c334ef6ad0b96f981/transformed/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/8664dc3c85b9ec9c334ef6ad0b96f981/transformed/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/e8994bafb175330a4312c8452987cb3e/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/e8994bafb175330a4312c8452987cb3e/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/1e5364fd41d03707bfa290eef5242464/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/1e5364fd41d03707bfa290eef5242464/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/dd48890d9d0e0c334b40cec39d1cd269/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/dd48890d9d0e0c334b40cec39d1cd269/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/3b731c4e9a636cc6688b30eae2881a54/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/3b731c4e9a636cc6688b30eae2881a54/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/5d87a5b9ac67211cd8365a371dfc0d1f/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/5d87a5b9ac67211cd8365a371dfc0d1f/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/36ff0510602879d5b35c7236d28872dc/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/36ff0510602879d5b35c7236d28872dc/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/d31ff0656be2a5d10e4164e18883540e/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/d31ff0656be2a5d10e4164e18883540e/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/6dfb4751be5bb4374d6fec7e28bf3492/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/6dfb4751be5bb4374d6fec7e28bf3492/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/069509f7109ca4691f63dd9e320ca320/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/069509f7109ca4691f63dd9e320ca320/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/12f9249df28dd0455d5432e9f358d70c/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/12f9249df28dd0455d5432e9f358d70c/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/bfc15fd38776a263853496dd0b43e81b/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/bfc15fd38776a263853496dd0b43e81b/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/42a5c53ec4d2d34eb9192883518e36c6/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/42a5c53ec4d2d34eb9192883518e36c6/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/267cca0f90c4c076493d78812ae45065/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/267cca0f90c4c076493d78812ae45065/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/85566da58f3ad5e08e452a8bd28b7caf/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/85566da58f3ad5e08e452a8bd28b7caf/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/0e20340bbe499ac660e59e1a289a9c2a/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/0e20340bbe499ac660e59e1a289a9c2a/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/f3605f31c9379a262544172ebbe63457/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/f3605f31c9379a262544172ebbe63457/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/ca2ba643c39a4809de57b8a422b1f195/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/ca2ba643c39a4809de57b8a422b1f195/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/5133a61fc5b13ac5d7556a064cfb4415/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/5133a61fc5b13ac5d7556a064cfb4415/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/783d835a8f078d729d6fd9bafbe3c833/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/783d835a8f078d729d6fd9bafbe3c833/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/1184dd4720c82ace49cfc558236766a4/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/1184dd4720c82ace49cfc558236766a4/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/81e5584d97d55e8b9d374c5eeb31e4d3/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/81e5584d97d55e8b9d374c5eeb31e4d3/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/6c58479bb69dbcf2ce84622fbd2c5e5c/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/6c58479bb69dbcf2ce84622fbd2c5e5c/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/48b881cbb88d1e18b1a620d0932ed659/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/48b881cbb88d1e18b1a620d0932ed659/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/e28d099569939a9742bf0e309e086797/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/e28d099569939a9742bf0e309e086797/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/b4852088c34222c7e8bfb01c7da6189d/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Applications/Android Studio.app/Contents/jbr/Contents/Home/caches/8.9/transforms/b4852088c34222c7e8bfb01c7da6189d/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/src/main/AndroidManifest.xml

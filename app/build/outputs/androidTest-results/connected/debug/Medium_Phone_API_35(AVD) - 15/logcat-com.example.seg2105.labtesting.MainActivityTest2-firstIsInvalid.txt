@@ -1,0 +1,386 @@
+11-26 16:09:07.924 30676 30690 I TestRunner: started: firstIsInvalid(com.example.seg2105.labtesting.MainActivityTest2)
+11-26 16:09:07.926 30676 30676 I MonitoringInstr: Activities that are still in CREATED to STOPPED: 0
+11-26 16:09:07.929 30676 30690 W ActivityTestRule: getActivityIntent() returned null using default: Intent(Intent.ACTION_MAIN)
+11-26 16:09:07.930   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~IB3XmwyZHVVZz6AKWjn1VQ==/com.google.android.inputmethod.latin-VB_BhedHdu_eZmq-nLRANg==/split_tenoranimation_feature_split.apk' with 1 weak references
+11-26 16:09:07.930   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~JFY8YvvvBGQ9NSavw1NClQ==/com.google.android.tts-cztWWnbZ4T12zsEu_6YguA==/base.apk' with 1 weak references
+11-26 16:09:07.930   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/app/AccessibilityMenu/AccessibilityMenu.apk' with 1 weak references
+11-26 16:09:07.930   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '/product/overlay/AccessibilityMenu__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:07.930   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/talkback/talkback.apk' with 1 weak references
+11-26 16:09:07.930   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '/vendor/overlay/EmulatorTalkBackOverlay/EmulatorTalkBackOverlay.apk' with 1 weak references
+11-26 16:09:07.930   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~z_YjgluLbgt-oA5QNU6bpQ==/com.google.android.googlequicksearchbox-oFtKDJEXSDML3cM5JLH1_Q==/base.apk' with 1 weak references
+11-26 16:09:07.931   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~z_YjgluLbgt-oA5QNU6bpQ==/com.google.android.googlequicksearchbox-oFtKDJEXSDML3cM5JLH1_Q==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:07.931   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~z_YjgluLbgt-oA5QNU6bpQ==/com.google.android.googlequicksearchbox-oFtKDJEXSDML3cM5JLH1_Q==/split_lens_ondevice_engine_play_ml_module.apk' with 1 weak references
+11-26 16:09:07.931   540   557 W system_server: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Hd5rIeRgnnlwtRjh0WjA5Q==/com.google.android.apps.docs-PZ1IORbuHYGphPAflFllKQ==/base.apk' with 1 weak references
+11-26 16:09:07.938   540  1637 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@246628a7 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+11-26 16:09:07.958  1209  1209 W SplitSelectStateCtor: Missing session instanceIds
+11-26 16:09:07.958  1209  1209 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+11-26 16:09:07.962   388   388 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+11-26 16:09:07.988 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3086
+11-26 16:09:07.991 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2155 repeatCheckTimes = 0, locked = false
+11-26 16:09:07.991 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1899 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+11-26 16:09:07.993 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2155 repeatCheckTimes = 1, locked = false
+11-26 16:09:07.996 15888 15888 I AndroidIME: InputBundleManager.loadActiveInputBundleId():450 loadActiveInputBundleId: und-Latn-x-password, password
+11-26 16:09:08.035 30676 30676 D LifecycleMonitor: Lifecycle status change: com.example.seg2105.labtesting.MainActivity@b3ef5b3 in: PRE_ON_CREATE
+11-26 16:09:08.070 30676 30676 E 2105.labtesting: Invalid resource ID 0x00000000.
+11-26 16:09:08.073   921  1059 D EGL_emulation: app_time_stats: avg=7979.77ms min=7979.77ms max=7979.77ms count=1
+11-26 16:09:08.086   540   540 W IPCThreadState: Sending oneway calls to frozen process.
+11-26 16:09:08.090  1442  1442 I AiAiEcho: AppFetcherImplV2 updateApps package:[com.example.seg2105.labtesting.test], userId:[0], reason:[package is added.].
+11-26 16:09:08.100  1209  1209 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=109, baseIntent=Intent { act=android.intent.action.MAIN flg=0x14000000 cmp=com.example.seg2105.labtesting/.MainActivity }
+11-26 16:09:08.101  1209  1632 D EGL_emulation: app_time_stats: avg=2351.34ms min=4.99ms max=42037.41ms count=18
+11-26 16:09:08.116  1209  1270 D PackageUpdatedTask: Package updated: mOp=ADD packages=[com.example.seg2105.labtesting.test]
+11-26 16:09:08.135  1209  1270 D BaseIconCache: Default icon returned for com.example.seg2105.labtesting.test
+11-26 16:09:08.172 30676 30676 W 2105.labtesting: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+11-26 16:09:08.173 30676 30676 W 2105.labtesting: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+11-26 16:09:08.175 30676 30676 D CompatChangeReporter: Compat change id reported: 37756858; UID 10355; state: ENABLED
+11-26 16:09:08.234   540  1007 W ParceledListSlice: Element #24 is 20752 bytes.
+11-26 16:09:08.236 30676 30676 D LifecycleMonitor: Lifecycle status change: com.example.seg2105.labtesting.MainActivity@b3ef5b3 in: CREATED
+11-26 16:09:08.237 30676 30676 D LifecycleMonitor: Lifecycle status change: com.example.seg2105.labtesting.MainActivity@b3ef5b3 in: STARTED
+11-26 16:09:08.239 30676 30676 D LifecycleMonitor: Lifecycle status change: com.example.seg2105.labtesting.MainActivity@b3ef5b3 in: RESUMED
+11-26 16:09:08.240   540  1637 W ParceledListSlice: Element #25 is 20788 bytes.
+11-26 16:09:08.240   540  1637 W ParceledListSlice: Element #26 is 20992 bytes.
+11-26 16:09:08.242   540  1637 W ParceledListSlice: Element #27 is 20840 bytes.
+11-26 16:09:08.248   540  1637 W ParceledListSlice: Element #28 is 20652 bytes.
+11-26 16:09:08.248   540  1637 W ParceledListSlice: Overly large reply size: 83296
+11-26 16:09:08.253  1442  1785 W PackageManager: Failure retrieving text 0x7f130786 in package com.android.systemui
+11-26 16:09:08.253  1442  1785 W PackageManager: android.content.res.Resources$NotFoundException: String resource ID #0x7f130786
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at android.content.res.Resources.getText(Resources.java:466)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at android.app.ApplicationPackageManager.getText(ApplicationPackageManager.java:2405)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at android.appwidget.AppWidgetProviderInfo.loadDescription(AppWidgetProviderInfo.java:484)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at kml.a(PG:341)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at kmg.b(PG:39)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at aaer.g(PG:13)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at kotlinx.coroutines.DispatchedTask.run(PG:114)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at wqm.a(PG:3)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at wpo.run(PG:21)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at wqn.run(PG:5)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:307)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at hqv.run(PG:221)
+11-26 16:09:08.253  1442  1785 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+11-26 16:09:08.254 30676 30676 W HWUI    : Unknown dataspace 0
+11-26 16:09:08.258  1442  1785 I AiAiEcho: EchoSearch: WidgetFetcherImpl is initialized with [34] widgets [reason=package added for userId: 0]
+11-26 16:09:08.293 15165 28288 I Icing   : Indexing done com.google.android.gms-apps
+11-26 16:09:08.302 15165 28288 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+11-26 16:09:08.305   540   540 W IPCThreadState: Sending oneway calls to frozen process.
+11-26 16:09:08.307  1209  1270 D PackageUpdatedTask: Package updated: mOp=UPDATE packages=[com.example.seg2105.labtesting.test]
+11-26 16:09:08.308  1442  1442 I AiAiEcho: AppFetcherImpl onPackageChanged com.example.seg2105.labtesting.test.
+11-26 16:09:08.308  1442 30307 I AiAiEcho: AppIndexer Package:[com.example.seg2105.labtesting.test] UserProfile:[0] Enabled:[true].
+11-26 16:09:08.308  1442 30307 I AiAiEcho: AppFetcherImplV2 updateApps package:[com.example.seg2105.labtesting.test], userId:[0], reason:[package is updated.].
+11-26 16:09:08.319  1209  1270 W AllAppsList: updatePromiseInstallInfo: no Activities matched updated package, removing all apps from package=com.example.seg2105.labtesting.test
+11-26 16:09:08.322   388   458 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10355 pid=0
+11-26 16:09:08.322   388   458 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10355 => denied (222 us)
+11-26 16:09:08.322   388   458 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10355 pid=0
+11-26 16:09:08.322   388   458 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10355 => denied (33 us)
+11-26 16:09:08.322   388   458 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10355 pid=0
+11-26 16:09:08.322   388   458 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10355 => denied (367 us)
+11-26 16:09:08.323   388  1117 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10355 pid=30676
+11-26 16:09:08.323   388  1117 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10355 => denied (1266 us)
+11-26 16:09:08.324 30676 30693 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+11-26 16:09:08.325 30676 30693 I EGL_emulation: Opening libGLESv2_emulation.so
+11-26 16:09:08.340 15165 28288 I Icing   : Indexing done com.google.android.gms-apps
+11-26 16:09:08.353 30676 30693 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+11-26 16:09:08.354  1209  1209 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+11-26 16:09:08.358 15165 28288 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+11-26 16:09:08.360 30676 30693 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+11-26 16:09:08.363  1209  1209 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+11-26 16:09:08.372 15165 28288 I Icing   : Indexing done com.google.android.gms-apps
+11-26 16:09:08.383   125   125 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+11-26 16:09:08.383 30676 30693 I Gralloc4: mapper 4.x is not supported
+11-26 16:09:08.410 15165 28288 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+11-26 16:09:08.410 15165 28288 I Icing   : Indexing done com.google.android.gms-apps
+11-26 16:09:08.441 15165 28288 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+11-26 16:09:08.441 15165 28288 I Icing   : Indexing done com.google.android.gms-apps
+11-26 16:09:08.455   540  2270 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10355 pid=0
+11-26 16:09:08.455   540  2270 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10355 => denied (87 us)
+11-26 16:09:08.455   540  2270 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10355 pid=0
+11-26 16:09:08.455   540  2270 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10355 => denied (13 us)
+11-26 16:09:08.455   540  2270 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10355 pid=0
+11-26 16:09:08.455   540  2270 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10355 => denied (15 us)
+11-26 16:09:08.460   540   564 W ziparchive: Unable to open '/data/app/~~IxTi9oF9cVJNy_OhtBGZ-Q==/com.example.seg2105.labtesting-dDK3NadQG2ggVH_LxGPZRA==/base.dm': No such file or directory
+11-26 16:09:08.465   540   564 I ActivityTaskManager: Displayed com.example.seg2105.labtesting/.MainActivity for user 0: +526ms
+11-26 16:09:08.504 30676 30676 I AssistStructure: Flattened final assist data: 3264 bytes, containing 1 windows, 17 views
+11-26 16:09:08.522 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/MtpService/MtpService.apk' with 1 weak references
+11-26 16:09:08.523 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.nfcservices/priv-app/NfcNciApexGoogle@AE3A.240806.005/NfcNciApexGoogle.apk' with 1 weak references
+11-26 16:09:08.524 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/Stk/Stk.apk' with 1 weak references
+11-26 16:09:08.524 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~fgX-BFT0lrXuCTQ8L2ABoQ==/com.google.android.deskclock-Y-6Tli58Hv1hSVSURLIWtg==/base.apk' with 1 weak references
+11-26 16:09:08.524 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~fgX-BFT0lrXuCTQ8L2ABoQ==/com.google.android.deskclock-Y-6Tli58Hv1hSVSURLIWtg==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.524 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk' with 1 weak references
+11-26 16:09:08.524 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~iLgmfHd9LJmj5WMRoz9SMw==/ca.uottawa.newomelet-Nml-G508NwUhZgRl4b7QEg==/base.apk' with 1 weak references
+11-26 16:09:08.524 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/DevicePersonalizationPrebuiltPixel2021-aiai_20240329.00_RC16/DevicePersonalizationPrebuiltPixel2021-aiai_20240329.00_RC16.apk' with 1 weak references
+11-26 16:09:08.524 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~vJ4UdAQYmY-EvOc83cSHJg==/com.google.android.gm-mfnTV3M3cRx_jXzKIiXgrA==/base.apk' with 1 weak references
+11-26 16:09:08.525 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~vJ4UdAQYmY-EvOc83cSHJg==/com.google.android.gm-mfnTV3M3cRx_jXzKIiXgrA==/split_config.arm64_v8a.apk' with 1 weak references
+11-26 16:09:08.525 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~vJ4UdAQYmY-EvOc83cSHJg==/com.google.android.gm-mfnTV3M3cRx_jXzKIiXgrA==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.525 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~vJ4UdAQYmY-EvOc83cSHJg==/com.google.android.gm-mfnTV3M3cRx_jXzKIiXgrA==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.529   540   669 I ImeTracker: com.example.seg2105.labtesting:9a7ef6a2: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+11-26 16:09:08.531   540   669 I ImeTracker: com.example.seg2105.labtesting:9a7ef6a2: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-26 16:09:08.533 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.permission/priv-app/GooglePermissionController@350820360/GooglePermissionController.apk' with 1 weak references
+11-26 16:09:08.535 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/GooglePermissionControllerOverlay.apk' with 1 weak references
+11-26 16:09:08.535 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.btservices/app/BluetoothGoogle@342010060/BluetoothGoogle.apk' with 1 weak references
+11-26 16:09:08.535 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/SettingsProvider/SettingsProvider.apk' with 1 weak references
+11-26 16:09:08.535 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/LargeScreenSettingsProviderOverlay.apk' with 1 weak references
+11-26 16:09:08.535 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/SettingsProvider__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.537 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/PrintSpooler/PrintSpooler.apk' with 1 weak references
+11-26 16:09:08.538 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3086
+11-26 16:09:08.540 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2155 repeatCheckTimes = 0, locked = false
+11-26 16:09:08.540 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/BasicDreams/BasicDreams.apk' with 1 weak references
+11-26 16:09:08.541 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~bOiPMhsklNf2GYzb1V2lkg==/com.google.android.as.oss-mgcjweUpu1fVA4ZJNHQPog==/base.apk' with 1 weak references
+11-26 16:09:08.542 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/InputDevices/InputDevices.apk' with 1 weak references
+11-26 16:09:08.542 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.devicelock/priv-app/DeviceLockControllerGoogle@AE3A.240806.005/DeviceLockControllerGoogle.apk' with 1 weak references
+11-26 16:09:08.542 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~M0z2lcbTjAU1VfBlNzC10A==/com.google.android.dialer-Dvgtio5PhGhWyFjc8s9z7Q==/base.apk' with 1 weak references
+11-26 16:09:08.542 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/BuiltInPrintService/BuiltInPrintService.apk' with 1 weak references
+11-26 16:09:08.543 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/BuiltInPrintService__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.543 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk' with 1 weak references
+11-26 16:09:08.543 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/MusicFX/MusicFX.apk' with 1 weak references
+11-26 16:09:08.546 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Hd5rIeRgnnlwtRjh0WjA5Q==/com.google.android.apps.docs-PZ1IORbuHYGphPAflFllKQ==/base.apk' with 1 weak references
+11-26 16:09:08.547 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Hd5rIeRgnnlwtRjh0WjA5Q==/com.google.android.apps.docs-PZ1IORbuHYGphPAflFllKQ==/split_config.arm64_v8a.apk' with 1 weak references
+11-26 16:09:08.547 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Hd5rIeRgnnlwtRjh0WjA5Q==/com.google.android.apps.docs-PZ1IORbuHYGphPAflFllKQ==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.547 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Hd5rIeRgnnlwtRjh0WjA5Q==/com.google.android.apps.docs-PZ1IORbuHYGphPAflFllKQ==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.547 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~b1bHlo77pBSMySIhUpR7IA==/com.google.android.apps.maps-tDwzWeudpVf6nlVR1_hXVQ==/base.apk' with 1 weak references
+11-26 16:09:08.547 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~b1bHlo77pBSMySIhUpR7IA==/com.google.android.apps.maps-tDwzWeudpVf6nlVR1_hXVQ==/split_config.arm64_v8a.apk' with 1 weak references
+11-26 16:09:08.547 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~b1bHlo77pBSMySIhUpR7IA==/com.google.android.apps.maps-tDwzWeudpVf6nlVR1_hXVQ==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.547 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~b1bHlo77pBSMySIhUpR7IA==/com.google.android.apps.maps-tDwzWeudpVf6nlVR1_hXVQ==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.550 15888 15888 I DeviceIntelligenceExtension: DeviceIntelligenceExtension.getInlineSuggestionsRequest():280 Inline suggestions disabled in stylus mode or vertical PK/Voice toolbar
+11-26 16:09:08.550 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk' with 1 weak references
+11-26 16:09:08.551 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk' with 1 weak references
+11-26 16:09:08.552 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/AvatarPickerGoogle/AvatarPickerGoogle.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.rkpd/priv-app/rkpdapp.google@350820300/rkpdapp.google.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~tfyJpxsyy44MZaTIBZO3jg==/com.google.android.contacts-MPHPl4iwBKGF5Db61Sr5Wg==/base.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~tfyJpxsyy44MZaTIBZO3jg==/com.google.android.contacts-MPHPl4iwBKGF5Db61Sr5Wg==/split_config.arm64_v8a.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~tfyJpxsyy44MZaTIBZO3jg==/com.google.android.contacts-MPHPl4iwBKGF5Db61Sr5Wg==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~tfyJpxsyy44MZaTIBZO3jg==/com.google.android.contacts-MPHPl4iwBKGF5Db61Sr5Wg==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/Telecom/Telecom.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/Telecom__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/KeyChain/KeyChain.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/base.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_auxiliary_search.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_cablev2_authenticator.apk' with 1 weak references
+11-26 16:09:08.553 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_chrome.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_dev_ui.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_feedv2.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_read_aloud_playback.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_stack_unwinder.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_survey.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DHNRppPi2NF_qwruKZUWpg==/com.android.chrome-TrIkymQmlB7qH3s8zbcKbA==/split_test_dummy.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~psrSfWtRvc_M5h7a5AzCFA==/com.google.android.trichromelibrary_672308633-jub4wqn9uDb34fPR-rexpg==/base.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/PixelThemesStub/PixelThemesStub.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/TagGoogle/TagGoogle.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~JFY8YvvvBGQ9NSavw1NClQ==/com.google.android.tts-cztWWnbZ4T12zsEu_6YguA==/base.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/CallLogBackup/CallLogBackup.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~OadTKYDPnPuAPIZAbXpaGQ==/com.google.android.partnersetup-FHpQjRoWAs3-juTwja8qBg==/base.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/NexusWallpapersStubPrebuilt2018/NexusWallpapersStubPrebuilt2018.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk' with 1 weak references
+11-26 16:09:08.554 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/CarrierDefaultApp/CarrierDefaultApp.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/CredentialManager/CredentialManager.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/DeviceAsWebcam/DeviceAsWebcam.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/ProxyHandler/ProxyHandler.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.permission/priv-app/GoogleSafetyCenterResources@350820360/GoogleSafetyCenterResources.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/IntentResolver/IntentResolver.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk' with 1 weak references
+11-26 16:09:08.555 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/E2eeContactKeysProvider/E2eeContactKeysProvider.apk' with 1 weak references
+11-26 16:09:08.556 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1899 onStartInput(EditorInfo{EditorInfo{packageName=com.example.seg2105.labtesting, inputType=20001, inputTypeString=Normal, enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=48000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131165337, fieldName=null, extras=Bundle[mParcelledData.dataSize=168], hintText=non-empty, hintLocales=[]}}, false)
+11-26 16:09:08.559 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2155 repeatCheckTimes = 1, locked = false
+11-26 16:09:08.575 15888 15888 I AndroidIME: InputBundleManager.loadActiveInputBundleId():450 loadActiveInputBundleId: en-US, ime_english_united_states
+11-26 16:09:08.579  1209  1209 D BaseDepthController: setSurface:
+11-26 16:09:08.579  1209  1209 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+11-26 16:09:08.579  1209  1209 D BaseDepthController: 	mSurface: null
+11-26 16:09:08.579  1209  1209 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+11-26 16:09:08.580  1209  1209 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+11-26 16:09:08.580  1209  1209 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:4)
+11-26 16:09:08.580  1209  1209 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:1)
+11-26 16:09:08.580  1209  1209 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:34)
+11-26 16:09:08.580  1209  1209 D StatsLog: LAUNCHER_ONSTOP
+11-26 16:09:08.584  1209  1209 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+11-26 16:09:08.590  1209  1858 D OneSearchSuggestProvider: Shut down the binder channel
+11-26 16:09:08.591  1209  2376 I IPCThreadState: oneway function results for code 2 on binder at 0xb400007cc465e2b0 will be dropped but finished with status UNKNOWN_TRANSACTION
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@350820300/ServiceConnectivityResourcesGoogle.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/vendor/overlay/goldfish_overlay_connectivity_google.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~46XQbnDjw-ePXwDrRUBRCg==/com.google.android.apps.photos-MMz68_PFnNsREbwJP-3FGA==/base.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~46XQbnDjw-ePXwDrRUBRCg==/com.google.android.apps.photos-MMz68_PFnNsREbwJP-3FGA==/split_config.arm64_v8a.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~46XQbnDjw-ePXwDrRUBRCg==/com.google.android.apps.photos-MMz68_PFnNsREbwJP-3FGA==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~46XQbnDjw-ePXwDrRUBRCg==/com.google.android.apps.photos-MMz68_PFnNsREbwJP-3FGA==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~8RTTsvbpsQEwfa1tlCkkwA==/com.google.android.calendar-fj6LCYRIRXnjv0A5YI_0sA==/base.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~8RTTsvbpsQEwfa1tlCkkwA==/com.google.android.calendar-fj6LCYRIRXnjv0A5YI_0sA==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~8RTTsvbpsQEwfa1tlCkkwA==/com.google.android.calendar-fj6LCYRIRXnjv0A5YI_0sA==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/SoundPicker/SoundPicker.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk' with 1 weak references
+11-26 16:09:08.604 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/MultiDisplayProvider/MultiDisplayProvider.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/DeviceDiagnostics/DeviceDiagnostics.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/DeviceDiagnostics__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/overlay/NotesRoleEnabled/NotesRoleEnabledOverlay.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/LiveWallpapersPicker/LiveWallpapersPicker.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.healthfitness/priv-app/HealthConnectControllerGoogle@350820300/HealthConnectControllerGoogle.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/KidsSupervisionStub/KidsSupervisionStub.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/StorageManager/StorageManager.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/StorageManager__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/BookmarkProvider/BookmarkProvider.apk' with 1 weak references
+11-26 16:09:08.605 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/SettingsGoogle__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.uwb/priv-app/ServiceUwbResourcesGoogle@350820300/ServiceUwbResourcesGoogle.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.wifi/priv-app/ServiceWifiResourcesGoogle@350820300/ServiceWifiResourcesGoogle.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/ThemePicker/ThemePicker.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/priv-app/OdadPrebuilt/OdadPrebuilt.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/TeleService/TeleService.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/vendor/overlay/TeleService__sdk_gphone64_arm64__auto_generated_rro_vendor.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/TeleService__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/Shell/Shell.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk' with 1 weak references
+11-26 16:09:08.606 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/FusedLocation/FusedLocation.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/vendor/overlay/SystemUIGoogle__sdk_gphone64_arm64__auto_generated_rro_vendor.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/SystemUIGoogle__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~rF7yCflxQ5J38PLkA0AYug==/com.google.android.apps.youtube.music-Y2IyDdaJML_BQ5AP-uy0Qw==/base.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~rF7yCflxQ5J38PLkA0AYug==/com.google.android.apps.youtube.music-Y2IyDdaJML_BQ5AP-uy0Qw==/split_config.en.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/BluetoothMidiService/BluetoothMidiService.apk' with 1 weak references
+11-26 16:09:08.607 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/Traceur/Traceur.apk' with 1 weak references
+11-26 16:09:08.617 30676 30690 D InputManagerEventInjectionStrategy: Creating injection strategy with input manager.
+11-26 16:09:08.620 30676 30690 W 2105.labtesting: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+11-26 16:09:08.620 30676 30690 W 2105.labtesting: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+11-26 16:09:08.621 30676 30690 W 2105.labtesting: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+11-26 16:09:08.627 15165 15165 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-26 16:09:08.629 15165 15165 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-26 16:09:08.642  4369  4369 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1646009370
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@350820300/GoogleCellBroadcastApp.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/ContactsProvider/ContactsProvider.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '/product/overlay/ContactsProvider__sdk_gphone64_arm64__auto_generated_rro_product.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~IB3XmwyZHVVZz6AKWjn1VQ==/com.google.android.inputmethod.latin-VB_BhedHdu_eZmq-nLRANg==/base.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~IB3XmwyZHVVZz6AKWjn1VQ==/com.google.android.inputmethod.latin-VB_BhedHdu_eZmq-nLRANg==/split_brella_feature_split.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~IB3XmwyZHVVZz6AKWjn1VQ==/com.google.android.inputmethod.latin-VB_BhedHdu_eZmq-nLRANg==/split_config.xxhdpi.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~IB3XmwyZHVVZz6AKWjn1VQ==/com.google.android.inputmethod.latin-VB_BhedHdu_eZmq-nLRANg==/split_tenoranimation_feature_split.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~ChDGQoBMgK3fWuE6hji_2Q==/com.google.android.apps.restore-xb_-nSX6D4Gqp0DKbQkQkA==/base.apk' with 1 weak references
+11-26 16:09:08.642 26989 27001 W .apps.wellbeing: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~IxTi9oF9cVJNy_OhtBGZ-Q==/com.example.seg2105.labtesting-dDK3NadQG2ggVH_LxGPZRA==/base.apk' with 1 weak references
+11-26 16:09:08.646 30676 30676 W 2105.labtesting: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+11-26 16:09:08.647 30676 30676 W 2105.labtesting: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+11-26 16:09:08.647 30676 30676 W 2105.labtesting: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+11-26 16:09:08.649 30676 30676 W 2105.labtesting: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+11-26 16:09:08.651 30676 30676 W 2105.labtesting: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+11-26 16:09:08.651 30676 30676 W 2105.labtesting: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+11-26 16:09:08.653 15143 15230 I IPCThreadState: oneway function results for code 1 on binder at 0xb400007cc4680150 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+11-26 16:09:08.657 30676 30676 I ViewInteraction: Performing 'type text(user1)' action on view with id: com.example.seg2105.labtesting:id/username
+11-26 16:09:08.666 30676 30676 W 2105.labtesting: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+11-26 16:09:08.737 30676 30676 I ImeTracker: com.example.seg2105.labtesting:95ee6f82: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+11-26 16:09:08.738 30676 30676 D InputMethodManager: showSoftInput() view=android.support.v7.widget.AppCompatEditText{40f1bd9 VFED..CL. .F.P.... 351,273-601,391 #7f070099 app:id/username aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+11-26 16:09:08.741 15888 15888 I StylusModule: StylusModule.onUpdateToolType():813 Update tool type = 2
+11-26 16:09:08.747  1442  2289 I AiAiTextClassifier: [VisualCortexAdapter]: provideRegistration: Registered Prominent Screen Entities for updates.
+11-26 16:09:08.753 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2009 onStartInputView(EditorInfo{EditorInfo{packageName=com.example.seg2105.labtesting, inputType=20001, inputTypeString=Normal, enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=48000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131165337, fieldName=null, extras=Bundle[{androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true}], hintText=non-empty, hintLocales=[]}}, false)
+11-26 16:09:08.755 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2155 repeatCheckTimes = 1, locked = false
+11-26 16:09:08.757 15888 15888 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():175 systemKeyboardHeightRatio:1.000000.
+11-26 16:09:08.757 15888 15888 I AndroidIME: AbstractIme.onActivate():90 LatinIme.onActivate() : EditorInfo = EditorInfo{packageName=com.example.seg2105.labtesting, inputType=20001, inputTypeString=Normal, enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=48000005, privateImeOptions=null, actionName=NEXT, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131165337, fieldName=null, extras=Bundle[{androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true}], hintText=non-empty, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+11-26 16:09:08.759 15888 15888 I InputBundle: InputBundle.consumeEvent():904 Skip consuming an event as keyboard status is 0
+11-26 16:09:08.760 15888 15888 I Delight5Facilitator: Delight5Facilitator.initializeForIme():726 initializeForIme() : Locale = [en_US], layout = qwerty
+11-26 16:09:08.767 15888 15888 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1196 inline flag updated to:false
+11-26 16:09:08.767 15888 15888 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1196 inline flag updated to:false
+11-26 16:09:08.767   921  1013 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@b675f54
+11-26 16:09:08.768   540  1007 W InputManager-JNI: Input channel object '6ac9d9c Splash Screen com.example.seg2105.labtesting (client)' was disposed without first being removed with the input manager!
+11-26 16:09:08.776 15888 15888 I InputBundle: InputBundle.consumeEvent():904 Skip consuming an event as keyboard status is 0
+11-26 16:09:08.777 15888 15888 I InputBundle: InputBundle.consumeEvent():904 Skip consuming an event as keyboard status is 0
+11-26 16:09:08.785 15888 15888 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():587 activateKeyboard(): type=accessory, status=0, imeDef=kki{stringId=ime_english_united_states, language=en-US, languageTag=en-US, processedConditions={enable_number_row=false, device=phone}, className=com.google.android.libraries.inputmethod.ime.experiment.ExperimentImeWrapper, label=0, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, primeKeyboardType=SOFT, indicatorIcon=0, indicatorLabel=US, displayAppCompletions=true, extraValues=kka{#0x7f0b0211=TypedValue{t=0x3/d=0x0 "writing_helper_enable_by_word_revert=false"}, #0x7f0b0217=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}, #0x7f0b0218=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.edittracker.EditTrackingImeWrapper"}, #0x7f0b0219=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}}, processors=kmb@b81d84c, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=true, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, secondaryIme=null, keyboardGroupDef=klj@106468a, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=true}
+11-26 16:09:08.785 15888 15888 I KeyboardManager: KeyboardManager.requestKeyboard():234 Creating keyboard accessory, imeId=ime_english_united_states, cacheKey=theme_border_keyboard_mode_screen_size_5_5_keyboard_mode_screen_width_middle_stylesheet_noshadow_reordertheme_gsans_silkpopup_gm3token_sagm3token_newm3_light_phone_bottom4dp
+11-26 16:09:08.785 15888 15888 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():250 onKeyboardReady(): type=accessory(accessory), kb=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard@2a18399
+11-26 16:09:08.785 15888 15888 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():618 doActivateKeyboard(): accessory
+11-26 16:09:08.785 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.785 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.785 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.785 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.785 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=FLOATING_CANDIDATES, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.785 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=WIDGET, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.786 15888 15888 I KeyboardManager: KeyboardManager.requestKeyboard():234 Creating keyboard accessory_candidates_consumer, imeId=ime_english_united_states, cacheKey=theme_border_keyboard_mode_screen_size_5_5_keyboard_mode_screen_width_middle_stylesheet_noshadow_reordertheme_gsans_silkpopup_gm3token_sagm3token_newm3_light_phone_bottom4dp
+11-26 16:09:08.786 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={global_theme_key=theme_border_keyboard_mode_screen_size_5_5_keyboard_mode_screen_width_middle_stylesheet_noshadow_reordertheme_gsans_silkpopup_gm3token_sagm3token_newm3_light_phone_bottom4dp, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170041], initialStates=0, keyboardViewDefs=[klr{direction=null, id=#0x7f0b015e, isScalable=false, layoutId=#0x7f0e002c, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e06b6, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, jyd@b3bc61, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.786 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={global_theme_key=theme_border_keyboard_mode_screen_size_5_5_keyboard_mode_screen_width_middle_stylesheet_noshadow_reordertheme_gsans_silkpopup_gm3token_sagm3token_newm3_light_phone_bottom4dp, global_locale=en_US, global_density_dpi=420, global_orientation=1}, className=.latin.keyboard.AccessoryKeyboard, resourceIds=[#0x7f170041], initialStates=0, keyboardViewDefs=[klr{direction=null, id=#0x7f0b015e, isScalable=false, layoutId=#0x7f0e002c, type=FLOATING_CANDIDATES, touchable=true, defaultShow=false}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e06b6, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, jyd@b3bc61, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.787 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.startInputIfInputViewStarted():3615 startInputIfInputViewStarted(): ACCESSORY
+11-26 16:09:08.787 15888 15888 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():416 inch: 0.000000 ydpi: 420.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 420 defaultDensityDpi: 420 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -63 navBarHeight: 63
+11-26 16:09:08.787 15888 15888 I ResizableKeyboardModeController: ResizableKeyboardModeController.getKeyboardBottomOffset():236 currentPrimeKeyboardType:SOFT keyboardBottomOffset:0 navBarHeight:63 isInLandscape:false
+11-26 16:09:08.790 15888 15888 I CrowdsourceExtension: CrowdsourceExtension.checkIfDefaultBrowserIsAllowed():109 Failed to get default browser. The default browser may be deactivated.
+11-26 16:09:08.791 15888 15888 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():100 cancelShutdown()
+11-26 16:09:08.792 15888 15888 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():112 syncLanguagePacks()
+11-26 16:09:08.793 15888 16326 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():161 maybeScheduleAutoPackDownloadForFallback()
+11-26 16:09:08.796 15888 16326 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():198 maybeScheduleAutoPackDownload() for language tag en-US
+11-26 16:09:08.797 15888 15888 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1065 onKeyboardActivated() [UD]
+11-26 16:09:08.797 15888 15888 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():307 Accessory input mode started: STYLUS
+11-26 16:09:08.798 15888 15888 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():803 class iag is not activate
+11-26 16:09:08.798 15888 15888 I WidgetViewShowingController: WidgetViewShowingController.showWidgetKeyboardInternal():486 Show companion widget
+11-26 16:09:08.805 15888 15888 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():803 class iag is not activate
+11-26 16:09:08.806 15888 15888 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updateAvailableArea():187 update available area Rect(21, 84 - 1059, 2333)
+11-26 16:09:08.806 15888 15888 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updatePositionWithAvoidRect():369 updateShowingPosition: PointF(95.0, 1208.0)
+11-26 16:09:08.807 15888 15888 I KeyboardModeManager: KeyboardModeManager.setSupportedKeyboardModes():1153 supportsSplitMode=true supportsOneHandedMode=true, needUpdateKeyboardMode=false
+11-26 16:09:08.809 15888 15888 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomaticallyInCurrentInputBox():402 No private IME option set to start voice input.
+11-26 16:09:08.815 15888 15958 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():514 setKeyboardLayout()
+11-26 16:09:08.823 15888 15888 I WidgetViewShowingPositionHandler: WidgetViewShowingPositionHandler.updatePositionWithAvoidRect():369 updateShowingPosition: PointF(95.0, 1208.0)
+11-26 16:09:08.825 15888 15888 I WindowMetricsNotification: WindowMetricsNotification.notifyWithWindow():162
+11-26 16:09:08.825 15888 15888 I WindowMetricsNotification: WindowMetricsNotification.notify():155 WindowMetricsNotification{bounds=Rect(0, 63 - 1080, 2400), insets=Rect(0, 0 - 0, 63), densityDpi=420, smallestScreenWidthDp=411, displayWidth=1080, displayHeight=2400, xdpi=420.0, ydpi=420.0, isTrustable=true}; DisplayMetrics{density=2.625, width=1080, height=2400, scaledDensity=2.625, xdpi=420.0, ydpi=420.0}
+11-26 16:09:08.847 15888 15888 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():468 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=HEADER keyboardView=null
+11-26 16:09:08.847 15888 15888 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():468 onKeyboardViewShown: keyboardType=accessory, keyboardViewType=BODY keyboardView=null
+11-26 16:09:08.848 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=HEADER, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.848 15888 15888 W Keyboard: Keyboard.getKeyboardViewHelper():585 null helper is returned: keyboardDef=kld{processedConditions={}, globalConditions={}, className=com.google.android.libraries.inputmethod.keyboard.impl.Keyboard, resourceIds=[#0x7f170042], initialStates=0, keyboardViewDefs=[], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=0, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=0}, type=BODY, helpersCreated=[null, null, null, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw411dp w411dp h914dp 420dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1080, 2400) mAppBounds=Rect(0, 0 - 1080, 2400) mMaxBounds=Rect(0, 0 - 1080, 2400) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.2 s.20 fontWeightAdjustment=0}
+11-26 16:09:08.850 15888 15888 I WindowMetricsNotification: WindowMetricsNotification.notifyWithWindow():162
+11-26 16:09:08.851 15888 15888 I WindowMetricsNotification: WindowMetricsNotification.notify():155 WindowMetricsNotification{bounds=Rect(0, 63 - 1080, 2400), insets=Rect(0, 0 - 0, 63), densityDpi=420, smallestScreenWidthDp=411, displayWidth=1080, displayHeight=2400, xdpi=420.0, ydpi=420.0, isTrustable=true}; DisplayMetrics{density=2.625, width=1080, height=2400, scaledDensity=2.625, xdpi=420.0, ydpi=420.0}
+11-26 16:09:08.858  1442  2289 I AiAiTextClassifier: [VisualCortexAdapter]: provideRegistration: Registered Prominent Screen Entities for updates.
+11-26 16:09:08.875 30676 30676 D InsetsController: show(ime(), fromIme=true)
+11-26 16:09:08.887 30676 30710 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.seg2105.labtesting
+11-26 16:09:08.890 15165 15165 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+11-26 16:09:08.891 15165 15165 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+11-26 16:09:08.918  1442  2289 I AiAiTextClassifier: [VisualCortexAdapter]: provideRegistration: Registered Prominent Screen Entities for updates.
+11-26 16:09:08.926  1442  2289 I AiAiTextClassifier: [VisualCortexAdapter]: provideRegistration: Registered Prominent Screen Entities for updates.
+11-26 16:09:08.973  1442  2289 I AiAiTextClassifier: [VisualCortexAdapter]: provideRegistration: Registered Prominent Screen Entities for updates.
+11-26 16:09:08.983 15888 15888 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-26 16:09:08.984 30676 30676 D UiControllerImpl: Injecting string: "user1"
+11-26 16:09:08.992  1442  2289 I AiAiTextClassifier: [VisualCortexAdapter]: provideRegistration: Registered Prominent Screen Entities for updates.
+11-26 16:09:09.003 15888 15888 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():514 setKeyboardLayout()
+11-26 16:09:09.020 15888 15888 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():73 initialize...
+11-26 16:09:09.020 15888 15888 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():72 onContentChanged()
+11-26 16:09:09.021 15888 15888 I ContactsDataManager: ContactsDataManager.onContentChanged():153 onContentChanged()
+11-26 16:09:09.021 15888 15888 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():83 initialize...done
+11-26 16:09:09.023 15888 20824 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():139 com.google.android.keyboard.client.delight5.LanguageIdentifier@13b685f is created
+11-26 16:09:09.082   921  1059 D EGL_emulation: app_time_stats: avg=55.69ms min=10.07ms max=742.91ms count=18
+11-26 16:09:09.099 30676 30676 I ImeTracker: com.example.seg2105.labtesting:95ee6f82: onShown
+11-26 16:09:09.157 30676 30676 I ViewInteraction: Performing 'close keyboard' action on view with id: com.example.seg2105.labtesting:id/username
+11-26 16:09:09.157 30676 30676 I ImeTracker: com.example.seg2105.labtesting:1b8ed8dc: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+11-26 16:09:09.159 15888 15888 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2343
+11-26 16:09:09.160 15888 15888 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():122 shutdown()
+11-26 16:09:09.160 15888 15888 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():803 class iag is not activate
+11-26 16:09:09.162 15888 15888 W ExtensionWrapper: ExtensionWrapper.setAllowUpdateNavigationBarStyle():803 class iag is not activate
+11-26 16:09:09.164 15888 15888 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+11-26 16:09:09.164 15888 15888 I InputBundle: InputBundle.consumeEvent():904 Skip consuming an event as keyboard status is 0
+11-26 16:09:09.164 30676 30676 D InsetsController: hide(ime(), fromIme=true)
+11-26 16:09:09.168 15888 15888 I AndroidIME: AbstractIme.onDeactivate():203 LatinIme.onDeactivate()
+11-26 16:09:09.192 15888 15958 I native  : I0000 00:00:1732655349.192904   15958 input-context-store.cc:265] Ignoring stale client request for FetchSuggestions
+11-26 16:09:09.200 15888 15958 I native  : I0000 00:00:1732655349.200584   15958 input-context-store.cc:187] Ignoring stale client request for OverrideDecodedCandidates
+11-26 16:09:09.200 15888 15958 W Delight5Decoder: Delight5DecoderWrapper.shouldAbandonMessage():2252 Detected old [FetchSuggestions] request in background: 408<409
+11-26 16:09:09.201 15888 15888 W InputContextProxy: InputContextProxy.applyClientDiffInternal():957 Ignore [FetchSuggestions] diff due to stale request: 400<409, inputStateId=0, lastInputStateId=355
+11-26 16:09:09.379 30676 30676 I ImeTracker: com.example.seg2105.labtesting:9196eb0e: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_ON_ANIMATION_STATE_CHANGED fromUser false
+11-26 16:09:09.380 30676 30676 I ImeTracker: com.example.seg2105.labtesting:1b8ed8dc: onHidden
+11-26 16:09:09.380   540   669 I ImeTracker: com.example.seg2105.labtesting:9196eb0e: onCancelled at PHASE_SERVER_SHOULD_HIDE
+11-26 16:09:09.445 30676 30680 I 2105.labtesting: Compiler allocated 4206KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+11-26 16:09:09.481 30676 30676 I ViewInteraction: Performing 'single click' action on view with id: com.example.seg2105.labtesting:id/loginBtn
+11-26 16:09:09.507 30676 30693 D EGL_emulation: app_time_stats: avg=58.29ms min=1.34ms max=350.57ms count=17
+11-26 16:09:09.533  3916 20530 D audioserver: logFgsApiBegin: FGS Logger Transaction failed, -129
+11-26 16:09:09.568 15888 20824 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():139 com.google.android.keyboard.client.delight5.LanguageIdentifier@c8a8ef3 is created
+11-26 16:09:09.605   540  1640 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+11-26 16:09:09.613  3916  4045 D AudioFlinger: mixer(0xb4000077137798e0) throttle end: throttle time(31)
+11-26 16:09:09.666 30676 30680 I 2105.labtesting: Compiler allocated 5250KB to compile void android.view.ViewRootImpl.performTraversals()
+11-26 16:09:09.772  3916  4045 D audioserver: logFgsApiEnd: FGS Logger Transaction failed, -129
+11-26 16:09:09.821 30676 30676 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=is displayed on the screen to the user}' assertion on view with text: is "Invalid First Name"
+11-26 16:09:09.825 30676 30676 W 2105.labtesting: Accessing hidden field Landroid/app/Activity;->mResultCode:I (unsupported, reflection, allowed)
+11-26 16:09:09.825 30676 30676 W 2105.labtesting: Accessing hidden field Landroid/app/Activity;->mResultData:Landroid/content/Intent; (unsupported, reflection, allowed)
+11-26 16:09:09.826  1209  1209 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=7, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity }
+11-26 16:09:09.826 30676 30690 I TestRunner: finished: firstIsInvalid(com.example.seg2105.labtesting.MainActivityTest2)

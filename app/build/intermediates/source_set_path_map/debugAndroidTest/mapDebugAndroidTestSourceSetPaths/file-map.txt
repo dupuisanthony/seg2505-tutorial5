@@ -1,0 +1,4 @@
+com.example.seg2505tutoriel5.test.app-androidTest-0 /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/build/generated/res/resValues/androidTest/debug
+com.example.seg2505tutoriel5.test.app-mergeDebugAndroidTestResources-1 /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.seg2505tutoriel5.test.app-mergeDebugAndroidTestResources-2 /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.seg2505tutoriel5.test.app-debugAndroidTest-3 /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

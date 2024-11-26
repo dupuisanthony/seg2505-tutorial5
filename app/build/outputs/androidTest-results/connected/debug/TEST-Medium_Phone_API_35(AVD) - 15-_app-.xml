@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.seg2105.labtesting.MainActivityTest2" tests="2" failures="0" errors="0" skipped="0" time="6.518" timestamp="2024-11-26T21:09:28" hostname="localhost">
+  <properties>
+    <property name="device" value="Medium_Phone_API_35(AVD) - 15" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="firstIsInvalid" classname="com.example.seg2105.labtesting.MainActivityTest2" time="1.912" />
+  <testcase name="emailIsInvalid" classname="com.example.seg2105.labtesting.MainActivityTest2" time="2.776" />
+</testsuite>

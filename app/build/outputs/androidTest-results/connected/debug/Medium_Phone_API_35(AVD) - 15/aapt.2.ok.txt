@@ -1,0 +1,27 @@
+EXECUTING: /Users/anthony/Library/Android/sdk/build-tools/34.0.0/aapt dump badging /Users/anthony/StudioProjects/SEG2505-tutoriel5/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk
+CURRENT_WORKING_DIRECTORY: /Users/anthony/StudioProjects/SEG2505-tutoriel5
+START_TIME: 2024-11-26 16:09:28.753
+START_TIME-NANOS: 2024-11-26 16:09:28.753893000
+ENVIRONMENT:
+
+*****************************************
+STDOUT/STDERR BELOW
+===================
+package: name='com.example.seg2105.labtesting.test' versionCode='' versionName='' platformBuildVersionName='9' platformBuildVersionCode='28' compileSdkVersion='28' compileSdkVersionCodename='9'
+sdkVersion:'15'
+targetSdkVersion:'28'
+application: label='' icon=''
+application-debuggable
+uses-library:'android.test.runner'
+feature-group: label=''
+  uses-feature: name='android.hardware.faketouch'
+  uses-implied-feature: name='android.hardware.faketouch' reason='default feature for all apps'
+supports-screens: 'small' 'normal' 'large' 'xlarge'
+supports-any-density: 'true'
+locales:
+densities:
+===================
+END_TIME: 2024-11-26 16:09:28.770
+END_TIME-NANOS: 2024-11-26 16:09:28.770135000
+DURATION: 16ms
+EXIT CODE: 0
